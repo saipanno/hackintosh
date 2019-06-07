@@ -1,19 +1,14 @@
-# MSI-Z390-Hackintosh
-微星MPG Z390 GAMING PRO CARBON 蓝宝石Vega64黑苹果
+# Hackintosh
 
 机器配置如下：
 
 主板：微星 MPG Z390 GAMING PRO CARBON
 
-CPU：Intel i9 9900K
+CPU：Intel i7-9700K
 
-内存：海盗船RGB 8Gx2 3200 灯条
+内存：金士顿 RGB 8Gx4 3200 灯条
 
-显卡：蓝宝石 vega64 超白金OC
-
-电源：EVGA 750W P2
-
-散热：Alphacool 240北极熊
+显卡：蓝宝石 RX 570 4G 白金
 
 固态：1.三星960Pro 512G（Mac OS）2.三星SM961 256G（windows 10）
 
@@ -23,11 +18,7 @@ CPU：Intel i9 9900K
 
 无线蓝牙网卡：Broadcom 94360CD
 
-独立声卡：Maya44XTe
-
 显示器：LG 27UD68 4K显示器
-
-机箱：乔思伯 UMX4 RGB版
 
 安装要点：
 
